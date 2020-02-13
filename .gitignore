@@ -5,3 +5,5 @@
 !/gradlew*
 !/gradle
 !/README.md
+!/docker
+!/kubernetes
