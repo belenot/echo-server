@@ -4,7 +4,6 @@ metadata:
   name: echo-server
   labels:
     app: echo-server
-  namespace: jenkins-ci
 spec:
   replicas: 1
   selector:
